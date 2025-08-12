@@ -1,0 +1,160 @@
+Licensing Information for IndiAPIs Package
+
+This package, IndiAPIs, includes datasets sourced from various R packages. In order to maintain consistency and clarity, a naming convention has been applied where suffixes are added to the dataset names to indicate the type and format of the datasets. The original content of these datasets has not been altered in any way.
+
+Dataset Licensing Information:
+
+- indianPopulation_tbl_df:
+  Originally statepop from the mapindia 1.0.1 package, licensed under MIT + file LICENSE. The dataset name has been changed to 'indianPopulation_tbl_df' to indicate that this dataset is a tibble object.
+
+- WestBengalPop_tbl_df:
+  Originally wb_2011 from the mapindia 1.0.1 package, licensed under MIT + file LICENSE. The dataset name has been changed to 'WestBengalPop_tbl_df' to indicate that this dataset is a tibble object.
+
+- IndiaLandReforms_df:
+  Originally LandReform from the pder 1.0-2 package, licensed under GPL (>= 2). The dataset name has been changed to 'IndiaLandReforms_df' to indicate that this dataset is a data frame object.
+
+- BurdwanRiceYield_df:
+  Originally Burdwanriceyield from the weatherindices 0.1.0 package, licensed under GPL (>= 3). The dataset name has been changed to 'BurdwanRiceYield_df' to indicate that this dataset is a data frame object.
+
+- BurdwanWeather_df:
+  Originally Burdwanweather from the weatherindices 0.1.0 package, licensed under GPL (>= 3). The dataset name has been changed to 'BurdwanWeather_df' to indicate that this dataset is a data frame object.
+
+- BirthDeathRates_df:
+  Originally BirthDeath from the gpk 1.0 package, licensed under GPL-2. The dataset name has been changed to 'BirthDeathRates_df' to indicate that this dataset is a data frame object.
+
+- ButterflySpecies_df:
+  Originally Butterflies from the gpk 1.0 package, licensed under GPL-2. The dataset name has been changed to 'ButterflySpecies_df' to indicate that this dataset is a data frame object.
+
+- IndiaPopulation_dt:
+  Originally pop from the covid19india 0.1.4 package, licensed under MIT + file LICENSE. The dataset name has been changed to 'IndiaPopulation_dt' to indicate that this dataset is a data table object.
+
+- BombayPlague1905_df:
+  Originally ross from the primer 1.2.0 package, licensed under GPL-3. The dataset name has been changed to 'BombayPlague1905_df' to indicate that this dataset is a data frame object.
+
+- IPLCricket_tbl_df:
+  Originally cricket from the gravitas 0.1.3 package, licensed under GPL-3. The dataset name has been changed to 'IPLCricket_tbl_df' to indicate that this dataset is a tibble object.
+
+- DelhiPotatoPrices_ts:
+  Originally Data_potato from the stlELM 0.1.1 package, licensed under GPL-3. The dataset name has been changed to 'DelhiPotatoPrices_ts' to indicate that this dataset is a time series object.
+
+- GoldPricesIndia_df:
+  Originally goldprice from the neutrostat 0.0.2 package, licensed under GPL (>= 2). The dataset name has been changed to 'GoldPricesIndia_df' to indicate that this dataset is a data frame object.
+
+
+- Dataset: startup_funding_tbl_df
+   Originally Name or Title: startup_funding.csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding
+   License: CC0: Public Domain
+
+- Dataset: India_SharkTank_tbl_df
+   Originally Name or Title: Shark Tank India Dataset.csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/shivavashishtha/shark-tank-india-dataset
+   License: CC0: Public Domain
+
+- Dataset: GDPIndia_tbl_df
+   Originally Name or Title: India_GDP_1960-2022.csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/dheerajmukati/india-gdp-19602022
+   License: CC0: Public Domain
+
+- Dataset: rainfall_tbl_df
+   Originally Name or Title: rainfaLLIndia.csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/aksahaha/rainfall-india
+   License: CC0: Public Domain
+
+- Dataset: DataScienceJobs_tbl_df
+   Originally Name or Title: Data_Science_Jobs_in_India.csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/madhurpant/data-science-jobs-in-india
+   License: CC0: Public Domain
+
+- Dataset: India_Companies_tbl_df
+   Originally Name or Title: notable_companies (1).csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/mrmars1010/companies-in-india
+   License: CC0: Public Domain
+
+- Dataset: hospitalcount_tbl_df
+   Originally Name or Title: Hospitals count in India - Statewise.csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/gokulprakash22/hospitals-count-in-india-statewise
+   License: CC0: Public Domain
+
+- Dataset: Top500Cities_tbl_df
+   Originally Name or Title: cities_r2.csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/zed9941/top-500-indian-cities
+   License: CC0: Public Domain
+
+- Dataset: Unicorn_startups_tbl_df
+   Originally Name or Title: Indian Unicorn startups 2023 updated.csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/mlvprasad/indian-unicorn-startups-2023-june-updated
+   License: Apache 2.0
+
+- Dataset: petrol_prices_tbl_df
+   Originally Name or Title: Ahmedabad.csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/sandipdevre/petrol-prices-in-india
+   License: CC0: Public Domain
+
+- Dataset: road_population_tbl_df
+   Originally Name or Title: India_Road_Population_Data.csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/zsinghrahulk/india-roadforpopulation-data
+   License: CC0: Public Domain
+
+- Dataset: diesel_fuelprice_tbl_df
+   Originally Name or Title: diesel.csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/sudhirnl7/fuel-price-in-india
+   License: CC0: Public Domain
+
+- Dataset: petrol_fuelprice_tbl_df
+   Originally Name or Title: petrol.csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/sudhirnl7/fuel-price-in-india
+   License: CC0: Public Domain
+
+
+- Dataset: exports_imports_tbl
+   Originally Name or Title: exports and imports of india(1997- July 2022) - exports and imports.csv.csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/ramjasmaurya/exports-and-imports-of-india19972022
+   License: CC0: Public Domain
+
+- Dataset: India_census2011_tbl_df
+   Originally Name or Title: census2011.csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/shiivvvaam/indian-districts-population-data
+   License: CC0: Public Domain
+
+- Dataset: birds_watching_tbl_df
+   Originally Name or Title: Birds of India.csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/prajwaldongre/indian-bird-observations-tracking-species
+   License: CC0: Public Domain
+
+- Dataset: CyberCrime_India_tbl_df
+   Originally Name or Title: Dataset_CyberCrime_Sean.csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/seanangelonathanael/dataset-cybercrime-in-india
+   License: MIT
+
+- Dataset: smartphones5G_tbl_df
+   Originally Name or Title: 5G smartphones available in india (updated in april 2022).csv
+   Source: kaggle
+   URL: https://www.kaggle.com/datasets/ramjasmaurya/5g-smartphones-available-in-india
+   License: CC0: Public Domain
+
+
+
+
+License
+
+All datasets in this package are provided under the same licenses as their original sources. The licensing information and any specific attribution required for each dataset can be found within their respective packages. Users must adhere to the licensing terms specified by each original source.
+
+The code in this package, IndiAPIs, is licensed under the MIT License. See the LICENSE file in the root directory for details.
