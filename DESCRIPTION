@@ -13,6 +13,7 @@ Description: Provides functions to access data from public RESTful APIs includin
     'World Bank API' <https://datahelpdesk.worldbank.org/knowledgebase/articles/889392>, 
     'REST Countries API' <https://restcountries.com/>.
 License: MIT + file LICENSE
+Language: en
 URL: https://github.com/lightbluetitan/indiapis, https://lightbluetitan.github.io/indiapis/
 BugReports: https://github.com/lightbluetitan/indiapis/issues
 Encoding: UTF-8
